@@ -1,0 +1,23 @@
+python3 run_instance_segmentation.py \
+    --model_name_or_path facebook/mask2former-swin-tiny-coco-instance \
+    --output_dir finetune-instance-segmentation-flowchartseg-mask2former_20epochs_a6000 \
+    --dataset_name MananSuri27/flowchartseg \
+    --do_reduce_labels \
+    --do_train \
+    --fp16 \
+    --num_train_epochs 20 \
+    --learning_rate 1e-5 \
+    --lr_scheduler_type cosine \
+    --per_device_train_batch_size 4 \
+    --gradient_accumulation_steps 4 \
+    --dataloader_num_workers 1 \
+    --dataloader_persistent_workers \
+    --dataloader_prefetch_factor 2 \
+    --do_eval \
+    --evaluation_strategy epoch \
+    --logging_strategy epoch \
+    --save_strategy epoch \
+    --save_total_limit 2 \
+    --push_to_hub \
+    --overwrite_output_dir \
+    --report_to wandb

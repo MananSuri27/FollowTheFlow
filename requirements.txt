@@ -1,0 +1,24 @@
+# Core ML libraries
+torch
+transformers
+pillow
+numpy
+opencv-python
+
+# Agent framework
+smolagents
+
+# Segmentation model
+# Loads from: MananSuri27/finetune-instance-segmentation-flowchartseg-mask2former_20epochs_a6000
+
+# Flow2Mermaid training (optional - only for retraining)
+# unsloth
+# trl
+# datasets
+# Model/Dataset: MananSuri27/Flowchart2Mermaid
+
+# Evaluation
+scikit-learn
+tqdm
+
+

@@ -1,0 +1,212 @@
+{
+    "TitleInput": [
+        371,
+        1769,
+        708,
+        1849
+    ],
+    "CapitalizeTitleCorrectly": [
+        306,
+        1561,
+        773,
+        1671
+    ],
+    "ArtistOutput": [
+        212,
+        3615,
+        867,
+        3839
+    ],
+    "LabelInput": [
+        401,
+        7229,
+        678,
+        7309
+    ],
+    "IncludeReleaseDate": [
+        326,
+        7633,
+        753,
+        7743
+    ],
+    "MediumInput": [
+        236,
+        5813,
+        843,
+        5989
+    ],
+    "LocationOutput": [
+        236,
+        6747,
+        843,
+        6923
+    ],
+    "Start": [
+        480,
+        15,
+        599,
+        95
+    ],
+    "WriteComposerName": [
+        306,
+        193,
+        773,
+        303
+    ],
+    "ComposerInput": [
+        260,
+        401,
+        819,
+        529
+    ],
+    "LocationInput": [
+        260,
+        6521,
+        819,
+        6649
+    ],
+    "TitleOutput": [
+        260,
+        2955,
+        819,
+        3083
+    ],
+    "FirstLetterCapitalization": [
+        573,
+        2651,
+        1095,
+        2857
+    ],
+    "AlbumTitleOutput": [
+        236,
+        5331,
+        843,
+        5507
+    ],
+    "LabelOutput": [
+        260,
+        7407,
+        819,
+        7535
+    ],
+    "AlbumFirstLetterCapitalization": [
+        573,
+        5027,
+        1095,
+        5233
+    ],
+    "ReleaseDateOutput": [
+        260,
+        8067,
+        819,
+        8195
+    ],
+    "CopyrightInput": [
+        236,
+        1061,
+        843,
+        1237
+    ],
+    "MediumOutput": [
+        260,
+        6087,
+        819,
+        6215
+    ],
+    "AddCopyrightYear": [
+        341,
+        853,
+        738,
+        963
+    ],
+    "AddAlbumTitle": [
+        368,
+        3937,
+        711,
+        4047
+    ],
+    "IncludeArtistsName": [
+        329,
+        3181,
+        750,
+        3291
+    ],
+    "ComposerOutput": [
+        260,
+        627,
+        819,
+        755
+    ],
+    "ArtistInput": [
+        260,
+        3389,
+        819,
+        3517
+    ],
+    "CopyrightOutput": [
+        260,
+        1335,
+        819,
+        1463
+    ],
+    "CapitalizeProperNouns": [
+        15,
+        2699,
+        475,
+        2809
+    ],
+    "AlbumTitleInput": [
+        410,
+        4145,
+        669,
+        4225
+    ],
+    "End": [
+        486,
+        8293,
+        593,
+        8373
+    ],
+    "ProperNounsDecision": [
+        261,
+        1947,
+        818,
+        2505
+    ],
+    "AddLocation": [
+        386,
+        6313,
+        693,
+        6423
+    ],
+    "ReleaseDateInput": [
+        260,
+        7841,
+        819,
+        7969
+    ],
+    "CapitalizeAlbumProperNouns": [
+        15,
+        5075,
+        475,
+        5185
+    ],
+    "SpecifyMedium": [
+        365,
+        5605,
+        714,
+        5715
+    ],
+    "AlbumProperNounsDecision": [
+        261,
+        4323,
+        818,
+        4881
+    ],
+    "AddLabel": [
+        407,
+        7021,
+        672,
+        7131
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "IsAlsatian": [
+        300,
+        695,
+        858,
+        1252
+    ],
+    "CombineIngredients": [
+        655,
+        1649,
+        1072,
+        1758
+    ],
+    "CoolGingerbread": [
+        392,
+        3082,
+        766,
+        3191
+    ],
+    "Start": [
+        530,
+        15,
+        628,
+        114
+    ],
+    "CombineAlsIngredients": [
+        33,
+        1625,
+        555,
+        1782
+    ],
+    "End": [
+        535,
+        3290,
+        623,
+        3377
+    ],
+    "PreheatOven": [
+        318,
+        213,
+        839,
+        370
+    ],
+    "PrepareAlsIngredients": [
+        15,
+        1399,
+        573,
+        1526
+    ],
+    "PrepareStdIngredients": [
+        300,
+        469,
+        858,
+        596
+    ],
+    "BakeGingerbread": [
+        388,
+        2089,
+        769,
+        2198
+    ],
+    "AdjustOven": [
+        431,
+        1881,
+        726,
+        1990
+    ],
+    "IsDoneBaking": [
+        373,
+        2345,
+        785,
+        2757
+    ],
+    "CreamIngredients": [
+        671,
+        1408,
+        1056,
+        1517
+    ],
+    "RemoveFromOven": [
+        385,
+        2903,
+        773,
+        2983
+    ]
+}
