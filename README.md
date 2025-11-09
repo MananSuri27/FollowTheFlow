@@ -42,13 +42,14 @@ pip install -r requirements.txt
 
 Our pre-trained models and datasets are available on HuggingFace:
 
-1. **FlowMask2Former** (Instance Segmentation):
-   - Model: [`MananSuri27/finetune-instance-segmentation-flowchartseg-mask2former_20epochs_a6000`](https://huggingface.co/MananSuri27/finetune-instance-segmentation-flowchartseg-mask2former_20epochs_a6000)
-   - Training Dataset: [`MananSuri27/flowchartseg`](https://huggingface.co/datasets/MananSuri27/flowchartseg)
+1. **FlowMask2Former**:
+   - Model: [`🤗 MananSuri27/finetune-instance-segmentation-flowchartseg-mask2former_20epochs_a6000`](https://huggingface.co/MananSuri27/finetune-instance-segmentation-flowchartseg-mask2former_20epochs_a6000)
+   - Training Dataset: [`🤗 MananSuri27/flowchartseg`](https://huggingface.co/datasets/MananSuri27/flowchartseg)
    - Used in Chart Component Labeling stage
 
-2. **Flow2MermaidQwen2VL** (Flowchart to Mermaid):
-   - Training Dataset: [`MananSuri27/Flowchart2Mermaid`](https://huggingface.co/datasets/MananSuri27/Flowchart2Mermaid)
+2. **Flow2MermaidQwen2VL**: 
+   - Model: [`🤗 "MananSuri27/Qwen2-7b-instruct-sft-flowchart"`](https://huggingface.co/MananSuri27/Qwen2-7b-instruct-sft-flowchart)
+   - Training Dataset: [`🤗 MananSuri27/Flowchart2Mermaid`](https://huggingface.co/datasets/MananSuri27/Flowchart2Mermaid)
    - Used in Graph Construction stage
 
 ## Dataset: FlowExplainBench
